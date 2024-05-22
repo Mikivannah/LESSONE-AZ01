@@ -14,5 +14,5 @@ print(df.loc[56])
 
 print("___________________________________________")
 # выведим значение конкретной строке индекса 56 конкретного столбца
-print(df.loc[56, 'Country name'])
+print(df.loc[56, 'Healthy life expectancy'])
 
